@@ -15,11 +15,7 @@ The project aims to present a clean and responsive interface that could be exten
 
 ---
 
-## 📸 Screenshots
 
-![UI Screenshot](screenshot.png) <!-- Replace with actual image path -->
-
----
 
 ## ✨ Features
 
